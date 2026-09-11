@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) explique BGV, CKKS, packing, bruit, bootstrapping et gestion des clés.
+
 HElib
 =====
 
